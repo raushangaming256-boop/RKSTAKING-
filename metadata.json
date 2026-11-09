@@ -1,0 +1,8 @@
+{
+  "name": "OkKhata",
+  "description": "OkKhata is a local business ledger (Udhari/Khata Book) to track customer credit and payment transactions seamlessly.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
